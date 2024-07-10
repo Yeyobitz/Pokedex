@@ -305,3 +305,21 @@ a:hover {
   background-color: #A87542;
   color: white;
 }
+
+
+.types {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+  margin-top: 10px;
+}
+
+.type-label {
+  padding: 5px 10px;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  text-transform: capitalize;
+  font-size: 0.8rem;
+  display: inline-block;
+}

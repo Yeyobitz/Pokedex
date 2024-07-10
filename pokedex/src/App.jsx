@@ -73,6 +73,7 @@ const App = () => {
     return `https://pokemon.fandom.com/es/wiki/${name.charAt(0).toUpperCase() + name.slice(1)}`;
   };
 
+  
   const handleMouseOver = (pokemon) => {
     const colors = {
       vaporeon: '#b3d4f7',
