@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: 'Press Start 2P', cursive;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: transparent;
+}
